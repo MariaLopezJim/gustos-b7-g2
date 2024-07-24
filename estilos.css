@@ -1,0 +1,76 @@
+body{
+    background-color: #F4F1E8;
+    margin: 0px;
+}
+
+.titulo{
+    text-align: center;
+    margin: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.titulo h1{
+    color: #9B4819;
+}
+
+.titulo button{
+    background-color: #9B4819;
+    color: #F4F1E8;
+    border: 2px;
+    border-radius: 3px;
+    margin: 6px;
+    padding: 7px;
+
+}
+
+.razon{
+    text-align: center; 
+    background: white;  
+    padding: 50px 400px;
+
+}
+
+.razon h3{
+    color: #9B4819;
+}
+
+.peliculas{
+    align-items: center;
+    margin: 100px 150px;
+    justify-content: center;
+    margin-bottom: 100px;
+    height: 1000px;
+    
+}
+.peli{
+    width: 200px;
+    text-align: center;
+    float: right;
+    margin: 0px 90px;
+    color: #314028;
+
+}
+
+.peli h4{
+    padding: 20px;
+    margin: 0px;
+    
+}
+
+.peli p{
+    font-size: 12px;
+}
+
+.peliculas img{
+    width: 200px;
+    height: 300px;
+    border-radius: 30px;
+}
+
+footer{
+    background-color: #153828 ;
+    color: #F4F1E8;
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+}
